@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pavan C
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to like minded coders
+- 🌱 I’m learning new
+- 💞️ I’m looking for like minded 
 - 📫 How to reach me with mail -pavancgowda500@gmail.com
 
 <!---
